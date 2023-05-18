@@ -115,7 +115,6 @@ footer {
     clear: both;
   }
  
-
   @media all and (max-width:500px) {
     .my-column {
         width: 100%;
@@ -167,7 +166,6 @@ footer {
  }
  
 /* flexible image rules start here */
-
 
 .flexible img{
     width:100%;
